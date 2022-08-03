@@ -1,5 +1,5 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
-import { __asyncValues } from 'tslib';
+// import { __asyncValues } from 'tslib';
 import { GifsService } from '../services/gifs.service';
 
 @Component({
